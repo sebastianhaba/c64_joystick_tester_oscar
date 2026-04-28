@@ -1,0 +1,13 @@
+{
+    "name": "joystick_tester_c",
+    "description": "Project joystick_tester_c",
+    "toolkit": "oscar64",
+    "sources": [
+        "src/main.c"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
